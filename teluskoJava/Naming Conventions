@@ -1,0 +1,46 @@
+Naming Convention
+******************************************************
+
+Interface Name - 	All the names should be an adjective. 
+					And the first letter of the first word should be upper case.
+					E.g. Readable, Runnable
+
+Class Name - 		All the names should be an noun. 
+					And only the first letter of the second word should be upper case. 
+					E.g. myFirstJavaClass, regiterEmployee	
+
+Method Name - 		All the names should be an verb. 
+					And only the first letter of the second word should be upper case.
+					E.g. actionPerformed, run, print, write
+
+Variable Name - 	All the names should be an adjective. 
+					And only the first letter of the second word should be upper case.
+					E.g. stockPrice, bankDetail
+
+Constants - 		All the names should be an upper case. 
+					And all the letter of the word should be capital and use underscore in between.
+					E.g. PI, DENSITY, MAX_PRICE
+					
+Package - 			All the names should be an lower case. 
+					And all the letter of the word should be capital and use underscore in between.
+					E.g. PI, DENSITY, MAX_PRICE
+
+Constructor - 		And the first letter of the first word should be upper case.
+					And all the letter of the word should be capital and use underscore in between.
+					E.g. Abc()
+					
+					
+abc			-		Variable
+
+ABC			-		Constant
+
+Abc()		-		Constructor
+
+abc()		-		Method
+
+Stretchable	-		Interface
+
+
+
+
+

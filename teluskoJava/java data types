@@ -1,0 +1,15 @@
+//Datatype		Keyword		Size(bit)		Size(byte)		Min			Max
+//****************************************************************************
+//byte 			byte		8				1				-128		127
+//character		char		16				2				0			65535
+//short			short		16				2				-32768		32767
+//integer		int 		32				4				-2e31		2e31-1
+//float			float		32				4				1.4e-45		3.4e+38
+//long			long		64				8				-2e63		-2e63-1
+//double		double		64				8				4.9e-324	1.8e+308
+//boolean		boolean		1				0				False		True
+
+//Here String is missing
+
+// byte -> short -> int -> long -> float -> double
+//			char
