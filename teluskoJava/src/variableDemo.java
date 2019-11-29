@@ -9,7 +9,7 @@ public class variableDemo {
 		//byte b=5;       // 1 byte  -> 8 bits  -> -128 to 127
 		// l=5000000000000000000l; 	    // 8 bytes -> 64 bits
 		
-		int a=(int)5.8;   //type casting // explicit conversion
+		int a=(int)5.9;   //type casting // explicit conversion
 		System.out.println(a);
 		
 		double d=5;      // implicit conversion
